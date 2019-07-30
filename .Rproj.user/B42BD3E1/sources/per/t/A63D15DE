@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559751408007.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1319934520",
+    "id" : "A63D15DE",
+    "lastKnownWriteTime" : 1564163739,
+    "last_content_update" : 1564163739287,
+    "path" : "~/Documents/website/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "102,0",
+        "scrollLine" : "85"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
